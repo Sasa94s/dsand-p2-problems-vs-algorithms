@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # A RouteTrie will store our routes and their associated handlers
 class RouteTrie:
     def __init__(self, root_handler):

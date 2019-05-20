@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def sqrt(number):
     """
     Calculate the floored square root of a number
